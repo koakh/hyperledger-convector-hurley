@@ -68,7 +68,7 @@
     "mocha": "^5.2.0",
     "path": "^0.12.7",
     "shelljs": "^0.8.2",
-    "tslib": "^1.9.0",
+    "tslib": "^1.14.1",
     "update-notifier": "^2.5.0"
   },
   "devDependencies": {
